@@ -1,0 +1,63 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/ywd/WebProject/realworld-nuxtjs/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/ywd/WebProject/realworld-nuxtjs/pages/home",
+        "_name": "_1aef08b3"
+      },
+      {
+        "path": "login",
+        "name": "login",
+        "component": "/Users/ywd/WebProject/realworld-nuxtjs/pages/login",
+        "_name": "_432a5615"
+      },
+      {
+        "path": "register",
+        "name": "register",
+        "component": "/Users/ywd/WebProject/realworld-nuxtjs/pages/login",
+        "_name": "_432a5615"
+      },
+      {
+        "path": "profile/:username",
+        "name": "profile",
+        "component": "/Users/ywd/WebProject/realworld-nuxtjs/pages/profile",
+        "_name": "_09d81556"
+      },
+      {
+        "path": "profile/:username/favorites",
+        "name": "profile-favorites",
+        "component": "/Users/ywd/WebProject/realworld-nuxtjs/pages/profile",
+        "_name": "_09d81556"
+      },
+      {
+        "path": "settings",
+        "name": "settings",
+        "component": "/Users/ywd/WebProject/realworld-nuxtjs/pages/settings",
+        "_name": "_0eaa7412"
+      },
+      {
+        "path": "editor/:slug",
+        "name": "editor-edit",
+        "component": "/Users/ywd/WebProject/realworld-nuxtjs/pages/editor",
+        "_name": "_15949041"
+      },
+      {
+        "path": "editor",
+        "name": "editor",
+        "component": "/Users/ywd/WebProject/realworld-nuxtjs/pages/editor",
+        "_name": "_15949041"
+      },
+      {
+        "path": "article/:slug",
+        "name": "article",
+        "component": "/Users/ywd/WebProject/realworld-nuxtjs/pages/article",
+        "_name": "_3c438ebc"
+      }
+    ],
+    "_name": "_216369fe"
+  }
+]
